@@ -1,5 +1,5 @@
 The Tunnel Design Bootstrap Template
-Showcase Site by Chris Godber (Noir Vortex | www.noirvortex.uk)
+Showcase Site by Chris Godber (Noir Vortex | www.noirvortex.co.uk)
 ------------------------------------------------
 
 Prototype Bootstrap layout for Showcase site for The Tunnel Design using TXT HTML5 Template as a base
